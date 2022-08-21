@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-responsive-complete",
+  "version": "1.0.0",
+  "description": "Murali Krishna Pasala Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "generate-css": "node-sass ./assets/scss/style.scss -o ./assets/css/ --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bedimcode/portfolio-responsive-complete.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bedimcode/portfolio-responsive-complete/issues"
+  },
+  "homepage": "https://github.com/bedimcode/portfolio-responsive-complete#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
